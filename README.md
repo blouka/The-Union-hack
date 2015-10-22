@@ -17,8 +17,8 @@ This is the original version of the Great British flag. We chose this flag becau
  
 ###Version 2
  
-![](greatbritain/version2.png)
+![](Greatbritain/Version2.png)
 
 ###Version 3
 
-![](greatbritain/version3.png)
+![](Greatbritain/Version3.png)
