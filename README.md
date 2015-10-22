@@ -13,12 +13,12 @@ This is the original version of the Great British flag. We chose this flag becau
 
 ###Version 1
 
-![image](greatbritain/version1.png)
+![](greatbritain/version1.png)
  
 ###Version 2
  
-![image](greatbritain/version2.png)
+![](greatbritain/version2.png)
 
 ###Version 3
 
-![image](greatbritain/version3.png)
+![](greatbritain/version3.png)
