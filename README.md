@@ -23,6 +23,10 @@ This is the original version of the Great British flag. We chose this flag becau
 
 ![](Greatbritain/Version3.png)
 
+###Version 4
+
+![image](Greatbritain/Version4.png)
+
 ###Original Version - Canada
 
 ![image](Canada/canadaflag.png)
