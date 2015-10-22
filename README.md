@@ -13,7 +13,7 @@ This is the original version of the Great British flag. We chose this flag becau
 
 ###Version 1
 
-![](greatbritain/version1.png)
+![](Greatbritain/Version1.png)
  
 ###Version 2
  
