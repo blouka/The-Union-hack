@@ -43,3 +43,9 @@ This is the original version of the Great British flag. We chose this flag becau
 ###Version 4
 ![image](Canada/4.png)
 
+
+
+##New flag ideas
+
+
+
