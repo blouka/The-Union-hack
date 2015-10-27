@@ -46,6 +46,6 @@ This is the original version of the Great British flag. We chose this flag becau
 
 
 ##New flag ideas
-
+![image](Newflags/newflag.png)
 
 
